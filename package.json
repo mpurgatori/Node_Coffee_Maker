@@ -1,0 +1,16 @@
+{
+  "name": "purgatori_barrista",
+  "version": "1.0.0",
+  "description": "Barrista Matic Code Challenge for SPR",
+  "bin": {
+    "coffee": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "vorpal": "^1.11.4"
+  }
+}
